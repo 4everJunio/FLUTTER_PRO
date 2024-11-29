@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Dr. Ghemu Gicu",
+      "specialty": "Cardiologist",
+      "location": "Cardiology Center, USA",
+      "rating": 5.0,
+      "reviews": 1872,
+      "image": "lib/img/Unknown.jpeg"
+    },
+    {
+      "name": "Dr. Alex Baț",
+      "specialty": "Gynecologist",
+      "location": "Women's Clinic, Seattle, USA",
+      "rating": 4.9,
+      "reviews": 127,
+      "image": "lib/img/doc2.jpg"
+    },
+    {
+      "name": "Dr. Michael Johnson",
+      "specialty": "Orthopedic Surgery",
+      "location": "Maple Associates, NY, USA",
+      "rating": 4.7,
+      "reviews": 5223,
+      "image": "lib/img/doc3.jpg"
+    },
+    {
+      "name": "Dr. Maia Sandu",
+      "specialty": "Medic de Familie",
+      "location": "Spitalul Mama și copilului, KIV, Moldova",
+      "rating": 5.0,
+      "reviews": 205223,
+      "image": "lib/img/maia.jpeg"
+    },
+    {
+      "name": "Dr. Stoionoglo ",
+      "specialty": "Menanjeră",
+      "location": "Spitalul Oncologic, Moscova, Russia",
+      "rating": 1.0,
+      "reviews": 25223,
+      "image": "lib/img/Alex.jpeg"
+    }
+  ]
+  
